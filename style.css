@@ -1,0 +1,13 @@
+html, body {
+    font-family: -apple-system,BlinkMacSystemFont,'cwTeXHei',Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 14px;
+}
+
+.bg-cover {
+    background-size: cover;
+    background-position: center center;
+}
+
+.main {
+    min-height: calc(100vh - (49px + 49px + 42px + 14px));
+}
